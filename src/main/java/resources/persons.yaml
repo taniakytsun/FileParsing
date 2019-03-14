@@ -1,0 +1,46 @@
+---
+- id: 0
+  name: "Tetiana TsanTXT"
+  birthDay: "1997-02-25"
+  age: 22
+  address: "Chernivtsi"
+  email: "taniakytsun@gmail.com"
+  phoneNumber: "(097)5395051"
+  specialization: "Java"
+  experience:
+  - place: "CHNU"
+    dateFrom: "2018-06-10"
+    dateTo: "2019-02-28"
+  - place: "SoftServe "
+    dateFrom: "2019-06-02"
+    dateTo: "2019-09-18"
+- id: 0
+  name: "TetianaTsanJSON"
+  birthDay: "1997-02-25"
+  age: 22
+  address: "Chernivtsi city, Russka street"
+  email: "taniakytsun@gmail.com"
+  phoneNumber: "(097)5395051"
+  specialization: "Java"
+  experience:
+  - place: "Yuriy Fedkovych Chernivtsi National University"
+    dateFrom: "2018-06-10"
+    dateTo: "2019-02-28"
+  - place: "SoftServe "
+    dateFrom: "2019-06-02"
+    dateTo: "2019-09-18"
+- id: 0
+  name: "TetianaTsanXML"
+  birthDay: "1997-02-25"
+  age: 22
+  address: "Chernivtsi city, Russka street"
+  email: "taniakytsun@gmail.com"
+  phoneNumber: "(097)5395051"
+  specialization: "Java"
+  experience:
+  - place: "Yuriy Fedkovych Chernivtsi National University"
+    dateFrom: "2018-06-10"
+    dateTo: "2019-02-28"
+  - place: "SoftServe "
+    dateFrom: "2019-06-02"
+    dateTo: "2019-09-18"
